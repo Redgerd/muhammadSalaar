@@ -2,14 +2,14 @@ const projects = [
   {
     name: "Superstore Data Warehouse",
     link: "https://github.com/Redgerd/ADW-2017",
-    rating: 5,
+    rating: 7,
     description: "Data Warehouse made in teradata ecosystem",
     technologies: ["sql", "etl", "data engineering"],
     imageAlt: "📐",
   },
   {
     name: "This website!",
-    link: "https://github.com/AleksandrHovhannisyan/aleksandrhovhannisyan.com",
+    link: "https://github.com/Redgerd/muhammadSalaar",
     rating: 10,
     description: "My online resume created with csss, and JavaScript.",
     technologies: ["css", "javascript"],
@@ -24,13 +24,28 @@ const projects = [
     imageAlt: "📄",
   },
   {
-    name: "Scuffed Adventures",
-    link: "https://github.com/Redgerd/Scuffed_Adventures",
+    name: "Real Estate Website",
+    link: "https://github.com/hba777/Real-Estate-Website",
     rating: 6,
+    description: "Web application for browsing and searching rental properties",
+    technologies: ["Next.js", "Tailwind CSS", "Node.js", "PostgreSQL", "GCP"],
+    imageAlt: "🏠",
+  },
+  {
+    name: "Reddit Post Analysis Workflow",
+    link: "https://github.com/hba777/Real-Estate-Website",
+    rating: 8,
     description:
-      "Scramble like turn based rpg inspired by Bookworm Adventures but made purely in java",
-    technologies: ["java", "game"],
-    imageAlt: "👻",
+      "Real-time data pipeline to ingest, process, and enrich Reddit data",
+    technologies: ["PySpark", "Azure Databricks", "SparkSQL"],
+    imageAlt: "🔀",
+  },
+  {
+    name: "SmartCampus Real-Time Surveillance  System",
+    rating: 10,
+    description: "Surveillance  System built ontop of YOLO",
+    technologies: ["FastAPI", "Celery", "Redis", "Docker"],
+    imageAlt: "📷",
   },
 ];
 
