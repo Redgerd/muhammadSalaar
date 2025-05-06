@@ -41,7 +41,7 @@ const projects = [
     imageAlt: "🔀",
   },
   {
-    name: "SmartCampus Real-Time Surveillance  System",
+    name: "SmartCampus Surveillance System",
     rating: 10,
     description: "Surveillance  System built ontop of YOLO",
     technologies: ["FastAPI", "Celery", "Redis", "Docker"],
