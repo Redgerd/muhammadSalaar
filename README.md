@@ -1,17 +1,25 @@
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 # muhammadSalaar.com
-Welcome to my portfolio website! This site showcases my work and skills as a developer. 
+
+Welcome to my personal portfolio website!  
+This site showcases my work, skills, and learning journey as a developer.
 
 ## About This Project
-I created this portfolio using **HTML** and **CSS** to demonstrate my abilities in web development and design. It serves as a platform to highlight my projects, skills, and interests.
 
-### 💻 Features
-- A clean and responsive layout to present my work effectively.
-- Links to my projects, showcasing the technologies used and my contributions.
-- Information about my background and what I’m currently learning.
+I built this portfolio using **HTML** and **CSS** to demonstrate my frontend development and design abilities.  
+It serves as a central place to share my projects, experience, and what I’m currently exploring.
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
+## Features
 
-Feel free to explore the website and connect with me for any inquiries or collaborations!
+- ✅ Clean and modern layout
+- 📱 Fully responsive design for mobile and desktop
+- 🧩 Links to my projects with tech stacks and summaries
+- 🧑‍💻 About Me section with current skills and learning goals
 
+## Connect With Me
+
+Feel free to explore the site and reach out for collaboration or inquiries!  
+🌐 [muhammadSalaar.com](https://muhammadSalaar.com)  
+✉️ [msalaarm@gmail.com]
